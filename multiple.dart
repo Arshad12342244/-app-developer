@@ -3,7 +3,7 @@ class Student {
   int age;
 
   // Default Constructor
-  Student() : name = "ali", age = 0;
+  Student() : name = "ali ", age = 0;
 
   // Named Constructor 1
   Student.withName(this.name) : age = 20;
