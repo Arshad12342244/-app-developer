@@ -25,7 +25,7 @@ class child with father, mother, mother2 {
 void main() {
   child c = child();
   c.display();
-  c.display1();
+  c.display1(); 
   c.display2();
   c.display3();
 }

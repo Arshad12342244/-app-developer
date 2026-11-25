@@ -31,7 +31,7 @@ class SavingsAccount extends Account {
 }
 
 void main() {
-  var acc = SavingsAccount("Sara", 1000);
+  var acc = SavingsAccount("Sara", 2000);
 
   acc.deposit(500);
   acc.withdraw(2200);
